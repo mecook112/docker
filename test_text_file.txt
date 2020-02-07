@@ -4,4 +4,5 @@ git clone https://github.com/mecook112/docker.git
 git status
 git add test_text_file.txt
 git commit -m "added a text file"
+git push
 
