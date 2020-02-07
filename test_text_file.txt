@@ -5,4 +5,5 @@ git status
 git add test_text_file.txt
 git commit -m "added a text file"
 git push
+git pull
 
